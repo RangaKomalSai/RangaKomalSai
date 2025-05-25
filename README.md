@@ -1,5 +1,6 @@
-<h1 align="center">Hi there! I'm Ranga Komal Sai 👋</h1>
-<h3 align="center">A passionate developer crafting solutions at the intersection of technology and innovation 🛠️✨</h3>
+<h1 align="center">Hi there! I'm Ranga Komal Sai ![blob-wave](https://github.com/user-attachments/assets/14a4ce11-a68e-4b61-9cb0-fb314004cbeb)</h1>
+<h3 align="center">🎓 Chemical Engineering Undergraduate at IIT Bombay | 📊 Data Science Minor  💻 Full-Stack Developer | 🤖 AI/ML Enthusiast</h3>
+<h3 align="center">A third-year undergrad at IIT Bombay, currently learning about machine learning. I enjoy building full-stack applications and exploring the realms of artificial intelligence and machine learning.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RangaKomalSai&label=Profile%20views&color=0e75b6&style=flat" alt="RangaKomalSai" />
@@ -15,7 +16,6 @@
 
 - 🌐 Visit my portfolio: [www.rangakomalsai.com](https://www.rangakomalsai.com)
 
----
 
 ## 🚀 Projects
 
@@ -31,7 +31,6 @@
 
 Explore more of my repositories [here](https://github.com/RangaKomalSai?tab=repositories).
 
----
 
 ## 🛠️ Tech Stack
 
@@ -41,7 +40,6 @@ Explore more of my repositories [here](https://github.com/RangaKomalSai?tab=repo
 
 - **Tools & Platforms:** Git, GitHub, Firebase, VS Code
 
----
 
 ## ✍️ Blog Posts
 
@@ -55,7 +53,6 @@ I enjoy writing about my learning journey and sharing insights on various tech t
 
 Check out more articles on my [blog](https://rangakomalsai.com/blog).
 
----
 
 ## 📈 GitHub Stats
 
@@ -66,16 +63,13 @@ Check out more articles on my [blog](https://rangakomalsai.com/blog).
   </tr>
 </table>
 
----
 
 ## 🌐 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/komal-sai-ranga)
-
-- 📸 [Instagram](https://www.instagram.com/komalsai_05)
+- ![linkedinlogo](https://github.com/user-attachments/assets/17871d64-9119-43bf-8e48-c5f9c6af6b3a) [LinkedIn](https://www.linkedin.com/in/komal-sai-ranga)
+- ![instagramlogo](https://github.com/user-attachments/assets/498c577d-00af-46c2-8348-b65ee3b1d5d0) [Instagram](https://www.instagram.com/komalsai_05)
 
 Let's connect and collaborate on exciting projects!
 
----
 
 *Thank you for visiting my profile!*
