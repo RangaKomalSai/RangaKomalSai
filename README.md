@@ -1,6 +1,6 @@
-<h1 align="center">Hi there! I'm Ranga Komal Sai ![blob-wave](https://github.com/user-attachments/assets/14a4ce11-a68e-4b61-9cb0-fb314004cbeb)</h1>
-<h3 align="center">🎓 Chemical Engineering Undergraduate at IIT Bombay | 📊 Data Science Minor  💻 Full-Stack Developer | 🤖 AI/ML Enthusiast</h3>
-<h3 align="center">A third-year undergrad at IIT Bombay, currently learning about machine learning. I enjoy building full-stack applications and exploring the realms of artificial intelligence and machine learning.</h3>
+<h1 align="center">Hi there! I'm Ranga Komal Sai <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="35" height="35"/></h1>
+<h3 align="center">🎓 Chemical Engineering Undergraduate at IIT Bombay | 📊 Data Science Minor <br/> 💻 Full-Stack Developer | 🤖 AI/ML Enthusiast</h3>
+<h4 align="center">A third-year undergrad at IIT Bombay, currently learning about machine learning. I enjoy building full-stack applications and exploring the realms of artificial intelligence and machine learning.</h4>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RangaKomalSai&label=Profile%20views&color=0e75b6&style=flat" alt="RangaKomalSai" />
@@ -66,8 +66,15 @@ Check out more articles on my [blog](https://rangakomalsai.com/blog).
 
 ## 🌐 Connect with Me
 
-- ![linkedinlogo](https://github.com/user-attachments/assets/17871d64-9119-43bf-8e48-c5f9c6af6b3a) [LinkedIn](https://www.linkedin.com/in/komal-sai-ranga)
-- ![instagramlogo](https://github.com/user-attachments/assets/498c577d-00af-46c2-8348-b65ee3b1d5d0) [Instagram](https://www.instagram.com/komalsai_05)
+<p align="left">
+  <a href="https://www.linkedin.com/in/komal-sai-ranga" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/komalsai_05" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="30" height="30" alt="Instagram" />
+  </a>
+</p>
 
 Let's connect and collaborate on exciting projects!
 
